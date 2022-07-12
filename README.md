@@ -1,5 +1,4 @@
 
-preview
 <h1 align="center">Hi 👋, I'm Fitim</h1>
 <h3 align="center">A passionate Python Developer from Kosovo</h3>
 
