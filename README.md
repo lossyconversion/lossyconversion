@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently CTO & Founder at Inferatos<br><br>🌱 I’m currently learning Frameworks (Django)<br><br>👯 I’m looking to collaborate on Python (Flask,FastAPI)<br><br>💬 Ask me about Python<br><br>📫 How to reach me fitimmalickaj@gmail.com
+🔭 I’m currently CTO & Co-founder at Inferatos<br><br>🌱 I’m currently learning Frameworks (Django)<br><br>👯 I’m looking to collaborate on Python (Flask,FastAPI)<br><br>💬 Ask me about Python<br><br>📫 How to reach me fitimmalickaj@gmail.com
 
 
 ## 🌐 Socials:
