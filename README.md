@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fitimalickaj" alt="fitimalickaj" /></a> </p>
 
-- 🔭 I’m currently CTO & Co-founder at [INFERATOS](https://www.inferatos.com/) and Backend Engineer at [RUBIK] (https://www.rubikhomes.com/)
+- 🔭 I’m currently CTO & Co-founder at [INFERATOS](https://www.inferatos.com/)
+- - 🔭 I’m currently Backend Engineer at [RUBIK](https://www.rubikhomes.com/)
 
 - 🌱 I’m currently learning **Rust,Solidity**
 
