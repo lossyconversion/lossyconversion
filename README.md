@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **fitimmalickaj@gmail.com**
 
-- 📫 Rech me for Inferatos collaboration **fitim@inferatos.com**
+- 📫 Reach me for Inferatos collaboration **fitim@inferatos.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
